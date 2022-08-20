@@ -5,13 +5,13 @@ I'm Shayan, a curious and enthusiastic boy who seeks new opportunities to learn 
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api?username=shayandavoodii&show-icons=true&hide=prs&theme=dark,issues)](https://github.com/shayandavoodii)
+[![](https://github-readme-stats.vercel.app/api?username=shayandavoodii&theme=tokyonight&show-icons=true&hide=prs,issues)](https://github.com/shayandavoodii)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayandavoodii&layout=compact&langs_count=10&theme=merko)](https://github.com/shayandavoodii)
 
 
 
 ## 🎯 Stats
-<img src="https://github-profile-trophy.vercel.app/?username=shayandavoodii&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories" alt="profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shayandavoodii&row=1&column=6&margin-h=8&theme=tokyonight&count_private=true&margin-w=15&no-frame=true&title=Stars,Followers,Commits,Repositories" alt="profile trophies" />
 
 
 
