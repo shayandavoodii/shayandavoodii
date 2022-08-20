@@ -6,8 +6,6 @@ I'm Shayan, a curious and enthusiastic boy who seeks new opportunities to learn 
 <div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?username=shayandavoodii&theme=tokyonight&show-icons=true&hide=prs,issues)](https://github.com/shayandavoodii)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayandavoodii&layout=compact&langs_count=10&theme=merko)](https://github.com/shayandavoodii)
-
 
 
 ## 🎯 Stats
@@ -23,6 +21,8 @@ I'm Shayan, a curious and enthusiastic boy who seeks new opportunities to learn 
 <!--
 **shayandavoodii/shayandavoodii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![](https://github-readme-stats.vercel.app/api?username=shayandavoodii&show-icons=true&hide=prs&bg_color=30,dfe6e9,fa8231,fab1a0,b2bec3,00cec9,00cec9,bdc3c7,bdc3c7,issues)](https://github.com/shayandavoodii)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayandavoodii&layout=compact&langs_count=10&theme=merko)](https://github.com/shayandavoodii)
 
 Here are some ideas to get you started:
 
