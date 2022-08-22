@@ -1,6 +1,6 @@
 # <p align="center">Hi there 👋 This is Shayan</p>
 <p align="justify">
-I'm Shayan, a curious and enthusiastic boy who seeks new opportunities to learn novelties of the AI universe and ML. I'm <b>eager to Solve problems</b>, NO MATTER WHAT! That's a daily challenge from my point of view and helps me move on.</br>Currently, I'm studying Financial Engineering at the <a href=https://aut.ac.ir/en>Polytechnic University of Tehran</a>. My motivation to study in the Financial Engineering field was to combine ML with financial investment strategies to take advantage of the power of ML in future prediction to increase the turnover of investment strategies. I'm still as excited as I was at the beginning of my journey after two years of daily study and learning new stuff in this area.</p></br>
+I'm Shayan, curious and enthusiastic and looking for new opportunities to learn novelties of the AI universe and ML. I'm <b>eager to Solve problems</b>, NO MATTER WHAT! That's a daily challenge from my point of view and helps me move on.</br>Currently, I'm studying Financial Engineering at the <a href=https://aut.ac.ir/en>Polytechnic University of Tehran</a>. My motivation to study in the Financial Engineering field was to combine ML with financial investment strategies to take advantage of the power of ML in future prediction to increase the turnover of investment strategies. I'm still as excited as I was at the beginning of my journey after two years of daily study and learning new stuff in this area.</p></br>
 
 
 <div align="center">
