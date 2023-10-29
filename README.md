@@ -1,11 +1,19 @@
 # <p align="center">Hi there 👋 This is Shayan</p>
 <p align="justify">
-Hey, I'm Shayan! I'm super curious and excited about diving into the awesome world of AI and machine learning. I love solving problems, and I see it as a challenge that keeps me going every day.
+Hey, I'm Shayan! I'm super curious and excited about diving into the awesome world of Statistics, AI, and machine learning. I love solving problems, and I see it as a challenge that keeps me going every day.
 
 I've recently completed my M.Sc. in Financial Engineering from the [AmirKabir University of Technology (Polytechnic of Tehran)](https://aut.ac.ir/en). I got into this field because I wanted to mix machine learning with financial investments to make predictions that could beef up investment strategies. After three years of daily learning, I’m still just as stoked as I was when I started this journey!</p></br>
 
+Presently, my academic interests revolve around the following areas:
 
-
+- Time Series Analysis 
+- Time Series Pattern Matching
+- Time Series Prediction
+- Mathematical Optimization
+- Multi-Objective Optimization
+- Markov Switching Processes
+- Multi-Criteria Decision Making
+- Online Portfolio Selection
 
 <div align="center">
 
