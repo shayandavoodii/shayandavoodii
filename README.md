@@ -1,6 +1,6 @@
 # <p align="center">Hi there 👋 This is Shayan</p>
 <p align="justify">
-Hey, I'm Shayan! I'm super curious and excited about diving into the awesome worlds of AI and machine learning. I love solving problems, and I see it as a challenge that keeps me going every day.
+Hey, I'm Shayan! I'm super curious and excited about diving into the awesome world of AI and machine learning. I love solving problems, and I see it as a challenge that keeps me going every day.
 
 I've recently completed my M.Sc. in Financial Engineering from the [Polytechnic University of Tehran]([url](https://aut.ac.ir/en)). I got into this field because I wanted to mix machine learning with financial investments to make predictions that could beef up investment strategies. After three years of daily learning, I’m still just as stoked as I was when I started this journey!</p></br>
 
