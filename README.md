@@ -2,7 +2,7 @@
 <p align="justify">
 Hey, I'm Shayan! I'm super curious and excited about diving into the awesome world of Statistics, AI, and machine learning. I love solving problems, and I see it as a challenge that keeps me going every day.
 
-I've recently completed my M.Sc. in Financial Engineering from the [AmirKabir University of Technology (Polytechnic of Tehran)](https://aut.ac.ir/en). I got into this field because I wanted to mix machine learning with financial investments to make predictions that could beef up investment strategies. After three years of daily learning, I’m still just as stoked as I was when I started this journey!</p></br>
+I've recently completed my M.Sc. in Financial Engineering from the [AmirKabir University of Technology (Polytechnic of Tehran)](https://aut.ac.ir/en). I got into this field because I wanted to mix machine learning with financial investments to make predictions that could beef up investment strategies. After three years of daily learning, I’m still just as stoked as I was when I started this journey!</p>
 
 Presently, my academic interests revolve around the following areas:
 
